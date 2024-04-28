@@ -1,0 +1,8 @@
+{
+  "name": "bare-rn-0740.components",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "author": "kayn",
+  "license": "MIT",
+  "private": true
+}

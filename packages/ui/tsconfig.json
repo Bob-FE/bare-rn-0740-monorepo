@@ -1,0 +1,10 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "module": "ES2022",
+    "baseUrl": "./",
+    "paths": {
+        "components/*": ["../components/src/*"]
+    }
+  }
+}
